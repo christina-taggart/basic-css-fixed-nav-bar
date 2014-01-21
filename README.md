@@ -1,8 +1,8 @@
-# Layout Drill Fixed Navigation 
- 
-##Learning Competencies 
+# Layout Drill Fixed Navigation
 
-##Summary 
+##Learning Competencies
+
+##Summary
 
  Fixed navigation headers, like you see right here on Socrates, are all the rage.  Let's build our own!
 
@@ -22,11 +22,11 @@ The top navigation bar should be `64px` tall and all the text should be centered
 
 What type of positioning should the top nav bar have?  Absolute, relative, static, or fixed?
 
-Make sure the padding and margins are consistent in your display.  The detail-oriented among us will notice that all of our spacing is formulated in multiples of `8px`.  This is related to something called a [baseline grid](http://alistapart.com/article/settingtypeontheweb) and, like the [rule of thirds in photography](http://en.wikipedia.org/wiki/Rule_of_thirds), is a simple rule of thumb to produce typographically sound websites. 
+Make sure the padding and margins are consistent in your display.  The detail-oriented among us will notice that all of our spacing is formulated in multiples of `8px`.  This is related to something called a [baseline grid](http://alistapart.com/article/settingtypeontheweb) and, like the [rule of thirds in photography](http://en.wikipedia.org/wiki/Rule_of_thirds), is a simple rule of thumb to produce typographically sound websites.
 
 ##Releases
-###Release 0 
+###Release 0
 
-##Optimize Your Learning 
+##Optimize Your Learning
 
 ##Resources
