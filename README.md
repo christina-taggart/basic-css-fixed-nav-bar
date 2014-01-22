@@ -38,6 +38,10 @@ and, like the [rule of thirds][] in photography], is a simple rule of thumb to
 produce typographically sound websites.
 
 ## Resources
+* [Fixed Positioning][fixed positioning]
+* [Line Height technique][line-height techique][]
+* [Baseline Grid][baseline grid]
+* [Rule of Thirds][rule of thirds]
 
 [fixed positioning]: http://css-tricks.com/absolute-relative-fixed-positioining-how-do-they-differ/
 [line-height techique]: http://www.student.oulu.fi/~laurirai/www/css/middle/
