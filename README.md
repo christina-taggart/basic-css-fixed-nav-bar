@@ -2,13 +2,12 @@
 
 ## Learning Competencies
 
-The goal of this challenge is to become more familiar with CSS positioning.
-[Read this article about CSS positioning][fixed positioning] first.
+* Successfully use fixed CSS positioning ([Read this article about CSS positioning][fixed positioning] first)
 
 ## Summary
 
-Fixed navigation headers, like you see right here on Socrates, are all the
-rage.  Let's build our own!
+Fixed navigation headers, like you see right here on our beloved Socrates, are
+all the rage.  Let's build our own!
 
 At the end it should look like this
 
@@ -38,6 +37,7 @@ and, like the [rule of thirds][] in photography], is a simple rule of thumb to
 produce typographically sound websites.
 
 ## Resources
+
 * [Fixed Positioning][fixed positioning]
 * [Line Height technique][line-height techique][]
 * [Baseline Grid][baseline grid]
