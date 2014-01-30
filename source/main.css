@@ -1,27 +1,65 @@
-.top-nav h1 {
-    font-size: 32px;
+body {
+  margin: 0px;
+}
+
+.nav-bar {
+  background-color: black;
+  height: 64px;
+  line-height: 64px;
+  position: fixed;
+  top: 0px;
+  width: 100%;
+}
+
+.nav {
+  display: inline;
+  color: white;
+  margin-left: 140px;
+  width: 200px;
+}
+
+.nav li {
+  display: inline;
+  font-family: Helvetica, Arial, sans-serif;
+  list-style: none;
+  margin-right: 20px;
+}
+
+.nav a {
+  color: white;
+  text-decoration: none;
+}
+
+.nav-bar h1 {
+  display: inline;
+  color: white;
+  font-size: 32px;
 }
 
 .container {
-    margin: 0px auto;
-    width: 400px;
+  margin: 0px auto;
+  width: 500px;
+}
+
+.content {
+  margin-top: 100px;
 }
 
 p {
-    font-family: Georgia, serif;
-    font-size: 14px;
-    line-height: 24px;
-    margin-bottom: 8px;
+  font-family: Georgia, serif;
+  font-size: 14px;
+  line-height: 24px;
+  margin-bottom: 8px;
 }
 
 h1, h2, h3 {
-    font-family: Helvetica, Arial, sans-serif;
-    font-weight: bold;
+  font-family: Helvetica, Arial, sans-serif;
+  font-weight: bold;
 }
 
 
 h2 {
-    font-size: 24px;
-    font-weight: bold;
-    line-height: 48px;
+  font-size: 24px;
+  font-weight: bold;
+  line-height: 48px;
 }
