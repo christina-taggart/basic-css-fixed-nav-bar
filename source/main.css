@@ -1,10 +1,42 @@
+.top-nav{
+    background: black;
+    color: white;
+    position: fixed;
+    width: 100%;
+    top: 0px;
+}
+
 .top-nav h1 {
     font-size: 32px;
+    float: left;
+    margin-top: 12px;
+}
+
+.top-nav ul{
+    list-style: none;
+    padding: 0;
+    float: right;
+    margin: 0;
+}
+
+.top-nav li{
+    margin-right: 20px;
+    display: inline;
+    line-height: 64px;
+}
+
+li a{
+    text-decoration: none;
+    color: white;
 }
 
 .container {
     margin: 0px auto;
     width: 400px;
+}
+
+.content {
+    margin-top: 80px;
 }
 
 p {
