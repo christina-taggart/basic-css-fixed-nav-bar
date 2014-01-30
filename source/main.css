@@ -1,6 +1,44 @@
+.top-nav {
+    background-color: black;
+    width: 100%;
+    position: fixed;
+    margin-top: -10px;
+}
+
+.top-nav.container{
+    position: fixed;
+}
+
+.container ul {
+    display: inline-block;
+}
+
 .top-nav h1 {
     font-size: 32px;
+    color: white;
+    display: inline-block;
+    vertical-align: middle;
 }
+
+
+
+.nav li {
+    display: inline;
+    list-style: none;
+    color: white;
+    padding-right: 20px
+}
+
+.nav li a {
+    color: white;
+    text-decoration: none;
+    vertical-align: middle;
+}
+
+.content {
+    padding-top: 100px;
+}
+
 
 .container {
     margin: 0px auto;
