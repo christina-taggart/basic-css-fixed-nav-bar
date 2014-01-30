@@ -8,7 +8,7 @@
 
 Fixed navigation headers, like you see right here on our beloved Socrates, are all the rage.  Let's build our own!
 
-<a href="https://www.youtube.com/watch?v=dRQR1jKwrSY">At the end it should look like this</a>
+<a href="https://www.youtube.com/watch?v=dRQR1jKwrSY" target="_blank">At the end it should look like this</a>
 
 ## Releases
 
