@@ -1,5 +1,21 @@
 .top-nav h1 {
     font-size: 32px;
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    color: white;
+    position: fixed;
+}
+
+.top-nav {
+    background-color: black;
+    font-color: white;
+    height: 64px;
+    text-align: vertical;
+    position: fixed;
+}
+
+body {
+    display: inline;
 }
 
 .container {
@@ -14,7 +30,7 @@ p {
     margin-bottom: 8px;
 }
 
-h1, h2, h3 {
+h2, h3 {
     font-family: Helvetica, Arial, sans-serif;
     font-weight: bold;
 }
@@ -24,4 +40,12 @@ h2 {
     font-size: 24px;
     font-weight: bold;
     line-height: 48px;
+}
+
+li a {
+    list-style: none;
+    text-decoration: none;
+    color: white;
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: bold;
 }
