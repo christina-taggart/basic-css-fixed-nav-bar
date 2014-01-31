@@ -1,26 +1,51 @@
+body {
+    margin: 0px;
+}
+
 .top-nav h1 {
     font-size: 32px;
     font-family: Helvetica, Arial, sans-serif;
     font-weight: bold;
     color: white;
     position: fixed;
+    margin-top: 0px;
 }
 
 .top-nav {
-    background-color: black;
-    font-color: white;
-    height: 64px;
-    text-align: vertical;
     position: fixed;
+    background-color: black;
+    height: 64px;
+    width: 100%;
+    width: auto;
 }
 
-body {
-    display: inline;
-}
-
-.container {
+div.container {
+    display: inline-block;
     margin: 0px auto;
     width: 400px;
+    padding-left: 275px;
+}
+
+.content {
+    padding-top: 40px;
+}
+
+ul.nav {
+    position: fixed;
+    padding-left: 200px;
+}
+
+li{
+    list-style: none;
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    display: inline;
+    padding-right: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
 }
 
 p {
@@ -40,12 +65,4 @@ h2 {
     font-size: 24px;
     font-weight: bold;
     line-height: 48px;
-}
-
-li a {
-    list-style: none;
-    text-decoration: none;
-    color: white;
-    font-family: Helvetica, Arial, sans-serif;
-    font-weight: bold;
 }
