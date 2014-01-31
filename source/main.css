@@ -1,7 +1,42 @@
+
 .top-nav h1 {
     font-size: 32px;
+    line-height: 32px;
+    color: white;
+    float: left;
 }
 
+.top-nav {
+    position: fixed;
+    height: 64px;
+    width: 817px;
+    display: block;
+    margin: 0 auto;
+    background-color: black;
+}
+
+.nav {
+    height: 64px;
+    float: right;
+    line-height: 32px;
+}
+
+.nav li {
+    float: right;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+    font-family: Helvetica, Arial, sans-serif;
+    display: block;
+    width: 60px;
+}
+
+.content {
+    position:relative;
+    top: 100px;
+}
 .container {
     margin: 0px auto;
     width: 400px;
